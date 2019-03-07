@@ -1,0 +1,16 @@
+PODS:
+  - VTNilReplace (0.1.0)
+
+DEPENDENCIES:
+  - VTNilReplace (from `../`)
+
+EXTERNAL SOURCES:
+  VTNilReplace:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  VTNilReplace: e93120404d05c64a94eb3ccff68c25cc8a19f37b
+
+PODFILE CHECKSUM: e4d0035846bab485716b6a2588be7e001aeb87da
+
+COCOAPODS: 1.6.0

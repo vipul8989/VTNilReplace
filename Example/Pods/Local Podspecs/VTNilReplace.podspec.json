@@ -1,0 +1,22 @@
+{
+  "name": "VTNilReplace",
+  "version": "0.1.0",
+  "summary": "A short description of VTNilReplace.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/vipul8989/VTNilReplace",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "vipul8989": "jaykishan.patel1463@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/vipul8989/VTNilReplace.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "VTNilReplace/Classes/**/*"
+}

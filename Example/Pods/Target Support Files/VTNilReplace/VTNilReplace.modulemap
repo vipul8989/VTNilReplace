@@ -1,0 +1,6 @@
+framework module VTNilReplace {
+  umbrella header "VTNilReplace-umbrella.h"
+
+  export *
+  module * { export * }
+}
